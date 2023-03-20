@@ -23,6 +23,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2NGiSulUV2oiFeO3e1ONrnaBu74" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,10 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-<<<<<<< HEAD
-=======
     "run.code.analysis.last.selected.profile": "pProject Default",
->>>>>>> master
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
